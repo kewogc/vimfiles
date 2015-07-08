@@ -24,3 +24,4 @@ source ~/.vim/vundles/vim-snipmate.vim
 source ~/.vim/vundles/vim-snippets.vim
 source ~/.vim/vundles/vim-surround.vim
 source ~/.vim/vundles/vim-multiple-cursors.vim
+source ~/.vim/vundles/vim-wakatime.vim
