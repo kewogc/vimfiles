@@ -3,13 +3,13 @@
 * Clone repo 
 
 ```
-git clone https://github.com/evserykh/vimfiles.git ~/.vim
+git clone https://github.com/kewogc/vimfiles.git ~/.vim
 ```
 
-* Clone [vundle](https://github.com/gmarik/vundle)
+* Clone [vundle](https://github.com/VundleVim)
 
 ```
-git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+git clone https://github.com/VundleVim/Vundle.vim.git   ~/.vim/bundle/vundle
 ```
 
 * Add to your .vimrc
